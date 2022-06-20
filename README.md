@@ -1,4 +1,4 @@
-# bloc
+# Bloc Counter Flutter State Management Example
 
 Developed by Eng Mouaz M AlShahmeh
 
